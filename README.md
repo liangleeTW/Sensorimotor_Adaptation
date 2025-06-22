@@ -89,14 +89,22 @@ Communication with the Arduino is handled via **serial communication**.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
-Add the following to your `requirements.txt`:
+To run this experiment suite, first install the required Python packages. You can do this using the following command:
 
+```bash
+pip install -r requirements.txt
 ```
-pandas
-pyserial
-```
+
+### Required Packages
+
+* `pandas` — for data logging and CSV handling
+* `pyserial` — for serial communication with Arduino
+* `tkinter` — for GUI interface (comes built-in with most Python distributions)
+
+> **Note**: `tkinter` is included by default in standard Python installations (e.g., Anaconda, python.org). If you're on Linux and it’s not installed, you may need to run:
+> `sudo apt-get install python3-tk`
 
 ---
 
