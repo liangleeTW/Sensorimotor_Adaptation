@@ -85,6 +85,7 @@ Communication with the Arduino is handled via **serial communication**.
 │       └── prepost.py
 ├── LICENSE
 ├── README.md
+├── requirements.txt
 ```
 
 ---
