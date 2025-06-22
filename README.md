@@ -109,6 +109,22 @@ pip install -r requirements.txt
 
 ---
 
+## Related Research Paper/Conference
+
+This experiment is part of the study:
+
+**Recommended Citation:**
+Liang Lee, Yi-Zhen Hsu, Shang-Hua N. Lin, Ching-Po Lin, Li-Hung Chang. (2025).
+*Investigating Implicit and Explicit Motor Adaptation Using Explainable Deep Learning Approach*.
+**Taiwan Society of Cognitive Neuroscience Annual Meeting**.
+
+**Award:** High Distinction Award, [Excellent Student Paper Competition](https://sites.google.com/view/tscn2025/%E5%84%AA%E7%A7%80%E5%AD%B8%E7%94%9F%E8%AB%96%E6%96%87%E7%AB%B6%E8%B3%BD%E6%B1%BA%E9%81%B8-student-paper-competition?authuser=0)
+
+[Click to view/download presentation slides](https://drive.google.com/file/d/1CWUpuM9YRaO0eLdUGlJYUYY2jxPFlKBr/view?usp=sharing)
+
+
+---
+
 ## License
 
 This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
