@@ -55,7 +55,10 @@ The experimental protocol includes **Arduino-controlled electrochromic film**, w
 
 Communication with the Arduino is handled via **serial communication**.
 
----
+
+
+---![電路圖_english](https://github.com/user-attachments/assets/ee1ac387-cbbc-445b-9bcb-5035850359ff)
+
 
 ## 📂 Repository Structure
 
