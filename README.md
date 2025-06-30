@@ -124,6 +124,12 @@ Liang Lee, Yi-Zhen Hsu, Shang-Hua N. Lin, Ching-Po Lin, Li-Hung Chang. (2025).
 
 [Click to view/download presentation slides](https://drive.google.com/file/d/1CWUpuM9YRaO0eLdUGlJYUYY2jxPFlKBr/view?usp=sharing)
 
+---
+
+## Collaborators
+
+- [sizluluEZ](https://github.com/sizluluEZ)
+- [liangleeTW](https://github.com/liangleeTW)
 
 ---
 
