@@ -1,5 +1,8 @@
 # Sensorimotor_Adaptation
 
+![Experiment design](exp_flow.jpeg)
+
+
 This repository contains the full experimental codebase for a **sensorimotor adaptation study** involving visual-proprioceptive calibration, sensory switching, and reaching under varying sensory contexts. The experimental logic follows the design shown below.
 
 ## Experimental Design
